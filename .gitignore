@@ -68,3 +68,4 @@ stage_ssh_key
 
 main.js
 
+android/*.log
